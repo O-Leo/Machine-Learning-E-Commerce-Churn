@@ -50,7 +50,7 @@ This data will be used to help E-Commerce to identify customer that churn and ma
 3.	Open Capston 1 Data Nilai Fikri Data Science.py or run code below
    python Capston 1 Data Nilai Fikri Data Science.py
 
-### Contribution
+### Contributions
 
 Contributions to this project are highly appreciated. If you wish to contribute or reviews this program, please create a pull request.
 Purpose of this README is to helps reader on building a professional portfolio for Student Scoring project. Be sure to include user instructions, a license, and contribution guidelines as needed for your project.
